@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</head>
+<body style="background-color:rgb(252, 250, 250)">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-item nav-link active" href="http://127.0.0.1:5000/">Home<span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="http://127.0.0.1:5000/dataset">Dataset</a>
+            <a class="nav-item nav-link" href="http://127.0.0.1:5000/data_visualization">Overview</a>
+            <a class="nav-item nav-link" href="http://127.0.0.1:5000/model">Outcome</a>
+            
+          </div>
+        </div>
+    </nav>
+    <center>
+        
+        <h2>Model Clustering</h2>
+    </center>
+    <br>
+    <center>
+        <div class="accordion" id="accordionExample">
+    
+            <div class="card" style="max-width: 1250px">
+              <div class="card-header bg-secondary" id="headingOne">
+                <h2 class="mb-0">
+                  <button class="btn btn-link btn-block  text-white text-center collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    Data Clustered
+                  </button>
+                </h2>
+              </div>     
+              <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body">
+                <center><img src="http://127.0.0.1:5000/static/xx.png" class="img-fluid" alt="Responsive image" width=800></center>
+                <p></p>
+                <p>Silver: Customer that have high salary and also have more than 2 children. The AmountSpent is the lowest. This is the lowest level in the membership.</p>
+                <p>SILVER BENEFITS IS OFFERED A SILVER MEMBERSHIP CARD WITH 10% DISCOUNT AFTER 10X REAPETED TRANSACTION.</p>
+                <P></P>
+                <p>Platinum: Customer that have the highest salary and barely have a children. The AmountSpent is the Higest. This is the high priority level in the membership.</p>
+                <p>PLATINUM BENEFITS IS OFFERED A PLATINUM MEMBERSHIP CARD WITH 20% DISCOUNT AFTER 10X REAPETED TRANSACTION.</p>
+                <P></P>
+                <p>Gold: Customer that have realtive low salary and barely have a children. The AmountSpent is low. This is the moderete level in the membership</p>
+                <p>GOLD BENEFITS IS OFFERED A GOLD MEMBERSHIP CARD WITH 15% DISCOUNT AFTER 10X REAPETED TRANSACTION.</p>
+                </div>
+              </div>
+            </div>
+    
+            <div class="card" style="max-width: 1250px">
+              <div class="card-header bg-secondary" id="headingTwo">
+                <h2 class="mb-0">
+                  <button class="btn btn-link btn-block text-white text-center collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    3D Visualization
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body">
+                <center><img src="http://127.0.0.1:5000/static/r.png" class="img-fluid" alt="Responsive image"></center>
+                </div>
+              </div>
+            </div>
+    
+            <div class="card" style="max-width: 1250px">
+              <div class="card-header bg-secondary" id="headingThree">
+                <h2 class="mb-0">
+                  <button class="btn btn-link btn-block text-white text-center collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Difference for Each Cluster
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body">
+                <center><img src="http://127.0.0.1:5000/static/zz.png" class="img-fluid" alt="Responsive image"></center>
+                </div>
+              </div>
+            </div>
+    
+    
+    
+    </body>
+    </html>

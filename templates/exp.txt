@@ -1,0 +1,66 @@
+<br>
+<br>
+<br>
+<center>
+    <h2>Feature Explanation</h2>
+</center>
+<br>
+
+
+
+
+<div class="table-wrapper-scroll-y my-custom-scrollbar" style="max-width: 1250px; margin-left:auto;margin-right:auto;">
+    <table class="table table-bordered table-striped mb-0">
+        <thead><tr class="bg-info">
+        <th scope="col" class="text-white">Feature</th>
+        <th scope="col" class="text-white">Explanation</th>
+        </tr></thead>
+        <tbody><tr>
+        <td><b>Daily Time on Spent</b></td>
+        <td>movie richardfinn timmaltby alanmarriott andrewtoth briandobson colehoward jennifercameron jonathanholmes leetockar lisadurupt mayakay michaeldobson children&amp;familymovies comedies polar bear king must take back awesome wedding planning stolen artifact grandfather evil archaeologist first</td>
+        </tr>
+        <tr>
+        <td><b>Age</b></td>
+        <td>movie  jandinoasporaat stand-upcomedy sex audience comedy show fire rousing rendition challenges jandino asporaat riffs raising kids serenades</td>
+        </tr>
+        <tr>
+        <td><b>Area Income</b></td>
+        <td>tvshow  petercullen sumaleemontano frankwelker jeffreycombs kevinmichaelrichardson taniagunadi joshkeaton steveblum andypessoa erniehudson darannorris willfriedle kids&#39;tv leader decepticons three human allies onslaught megatron autobots protect earth help</td>
+        </tr>
+        <tr>
+        <td><b>Daily Internet Usage</b></td>
+        <td>tvshow  willfriedle darrencriss constancezimmer kharypayton mitchellwhitfield stuartallan tedmcginley petercullen kids&#39;tv earth protect humankind decepticons prison ship crash unleashes hundreds bumblebee leads new autobot force</td>
+        </tr>
+        <tr>
+        <td><b>Ad Topic Line</b></td>
+        <td>movie fernandolebrija nestacooper katewalsh johnmichaelhiggins keithpowers aliciasanz jakeborelli kidink youseferakat rebekahgraf annewinters petergilroy patrickdavis comedies ex cross hairs interest lands social media celebrity nerdy high schooler dani finally attracts longtime crush</td>
+        </tr>
+        <tr>
+        <td><b>City</b></td>
+        <td>tvshow  albertoammann eloyazorín verónicaechegui lucíajiménez claudiatraisac crimetvshows internationaltvshows spanish-languagetvshows forced miguel sáez carral novel family series based life crime save young journalist father</td>
+        </tr>
+        <tr>
+        <td><b>Male</b></td>
+        <td>movie gabeibáñez antoniobanderas dylanmcdermott melaniegriffith birgittehjortsørensen robertforster christacampbell timmcinnerny andynyman davidryall internationalmovies sci-fi&amp;fantasy thrillers robot killed global conspiracy discovers violating protocol dystopian future insurance adjuster tech company investigates</td>
+        </tr>
+        <tr>
+        <td><b>Country</b></td>
+        <td>movie rodrigotoro franciscoschultz fabriziocopano stand-upcomedy sperm banks family whatsapp groups reflecting fabrizio copano takes audience participation set next level stand</td>
+        </tr>
+        <tr>
+        <td><b>Timestamp</b></td>
+        <td>tvshow   docuseries science&amp;naturetv brave backcountry firefighters race save lives put protect homes flames california docuseries 2016 fire season rages</td>
+        </tr>
+        <tr>
+        <td><b>Clicked on Ad</b></td>
+        <td>movie henrikrubengenz jamesfranco katehudson tomwilkinson omarsy samspruell annafriel thomasarnold oliverdimsdale dianahardcastle michaeljibson diarmaidmurtagh action&amp;adventure thrillers struggling couple luck money find stash apartment believe neighbor recently murdered</td>
+        </tr>
+        </tbody></table>
+        
+</div>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center><h6><b>&copy;</b> Dataset Created by Jose Portilla and Pierian </h6></center>
