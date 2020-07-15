@@ -5,7 +5,7 @@
 <img src="https://i.ytimg.com/vi/zPJtDohab-g/maxresdefault.jpg" width=500> 
 
 ## Introduction
-In this final project, I use sales data from retail stores to make machine learning algorithms to cluster customers to make the target market right on target..
+In this final project, I use sales data from retail stores to make machine learning algorithms to cluster customers to make the target market right on target.
 
 ## Feature Description
 Analyzing customer behaviour for clustering.
