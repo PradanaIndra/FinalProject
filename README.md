@@ -2,7 +2,7 @@
 
 # <h1><center>Customer Segmentation for Digital Marketing Team </center></h1>
 
-<img src="https://i.ytimg.com/vi/zPJtDohab-g/maxresdefault.jpg" width=500> 
+<img src="https://cdn.liveagent.com/app/uploads/2019/11/Segmentation-2.png" width=500> 
 
 ## Introduction
 In this final project, I use sales data from retail stores to make machine learning algorithms to cluster customers to make the target market right on target.
